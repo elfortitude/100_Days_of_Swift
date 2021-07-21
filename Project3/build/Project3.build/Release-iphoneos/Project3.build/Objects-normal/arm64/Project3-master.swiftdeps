@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "bceb254bb17308ff1aa9b5b1e5f3070f"
+build_time: [1626878906, 197751000]
+inputs:
+  "/Users/out-usacheva-ei/Documents/Project3/Project3/ViewController.swift": [9223372036, 854775807]
+  "/Users/out-usacheva-ei/Documents/Project3/Project3/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/out-usacheva-ei/Documents/Project3/Project3/SceneDelegate.swift": [9223372036, 854775807]
+  "/Users/out-usacheva-ei/Documents/Project3/Project3/DetailViewController.swift": [9223372036, 854775807]
