@@ -8,4 +8,10 @@ In this project we learned yet a bit more about Auto Layout: how to do Auto Layo
 
 All layout and label customization is done in code.
 
+Portrait:
+
 ![Screenshot](screen1.png)
+
+Landscape:
+
+![Screenshot](screen2.png)
