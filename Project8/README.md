@@ -6,7 +6,7 @@ The essence of the game is as follows: a word game based on the popular indie ga
 
 ## Demonstration
 
-Level view with letter buttons, disabled text field for view tapped queston, scores, answers and clues.
+Level view with letter buttons, disabled text field for view tapped queston, scores, answers and clues. All layout and label customization is done in code.
 
 ![Screenshot](screen1.png)
  
