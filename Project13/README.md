@@ -2,7 +2,7 @@
 
 The thirteenth developing project in "100 days of Swift" challenge on website: www.hackingwithswift.com
 
-In these project we created simple editing images app that called "YACIFP" (like Yet Another Core Image Filters Program) and realized applying filters. We practiced and learned about Core Image, UISlider and working with iOS photo library.
+In these project we created simple editing images app that called "YACIFP" (like Yet Another Core Image Filters Program 😏) and realized applying filters. We practiced and learned about Core Image, UISlider and working with iOS photo library.
 
 ## Demonstration
 
