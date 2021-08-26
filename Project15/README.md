@@ -20,7 +20,7 @@ On these screenshots we show five states of animation. When user tapped on the "
 
 ![Screenshot](screen3.png)
 
-### Rotation by 180 radians:
+### Rotation by 180 degrees:
 
 ![Screenshot](screen4.png)
 
