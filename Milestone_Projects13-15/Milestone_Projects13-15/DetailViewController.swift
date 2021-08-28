@@ -25,6 +25,7 @@ class DetailViewController: UIViewController {
         
         title = item.name
         navigationItem.largeTitleDisplayMode = .never
+        navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .action, target: self, action: #selector(shareTapped))
         
         var html = """
         <html>
@@ -54,6 +55,13 @@ class DetailViewController: UIViewController {
         """
         
         webView.loadHTMLString(html, baseURL: nil)
+    }
+    
+//      Method for sharing information
+    @objc func shareTapped() {
+        let vc = UIActivityViewController(activityItems: [detailItem?.name, detailItem?.capital], applicationActivities: [])
+        vc.popoverPresentationController?.barButtonItem = navigationItem.rightBarButtonItem
+        present(vc, animated: true)
     }
 
 }

@@ -5,8 +5,6 @@
 //  Created by out-usacheva-ei on 27.08.2021.
 //
 
-import Foundation
-
 struct Country: Codable {
     var name: String
     var capital: String
