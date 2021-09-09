@@ -35,7 +35,7 @@ class ViewController: UIViewController, UNUserNotificationCenterDelegate {
         
         let content = UNMutableNotificationContent()
         content.title = "Late wake up call"
-        content.body = "The early bird catches the worm, but th second mouse gets the cheese."
+        content.body = "The early bird catches the worm, but the second mouse gets the cheese."
         content.categoryIdentifier = "alarm"
         content.userInfo = ["customData": "fizzbuzz"]
         content.sound = UNNotificationSound.default
