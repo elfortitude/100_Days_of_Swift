@@ -2,7 +2,7 @@
 
 The twenty-first iOS developing project in "100 days of Swift" challenge on website: www.hackingwithswift.com
 
-In this project we created very simple one-page application with one target: learning notifications. We practiced and learned about Notification Center, UNUserNotificationCenter, requesting permission for notifications, the different kinds of notification trigger, UNMutableNotificationContent, notifications requests, UNNotificationCategory and UNNotificationAction, also DateComponents.
+In this project we created very simple one-page application with one target: learning notifications. We practiced and learned about UNUserNotificationCenter, requesting permission for notifications, the different kinds of notification trigger, UNMutableNotificationContent, notifications requests, UNNotificationCategory and UNNotificationAction, also DateComponents.
 
 ## Demonstration
 
